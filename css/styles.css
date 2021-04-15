@@ -7,18 +7,14 @@ div.info{padding-left: 10px;
 
 }
 
-p.flash {
+span.flash {
 	margin-left:auto;
 	margin-right:auto;
 	text-align: center;
 	font-weight: bold;
 	font-size:2em;
-	font-color: #e8c281;
-	animation: blinker 1s linear infinite;}
+	font-color: #e8c281;}
 
-.flash {
-	font-size:2em;
-	text-align: center;}
 
 
 
