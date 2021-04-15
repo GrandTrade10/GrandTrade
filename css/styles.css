@@ -8,9 +8,9 @@ div.info{padding-left: 10px;
 }
 
 span.flash {
-	margin-left:auto;
-	margin-right:auto;
-	text-align: center;
+	font-family: lato, sans-serif;
+	color: black:
+	text-alignment: center;
 	font-weight: bold;
 	font-size:2em;
 	font-color: #e8c281;}
