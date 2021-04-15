@@ -16,6 +16,10 @@ p.flash {
 	font-color: #e8c281;
 	animation: blinker 1s linear infinite;}
 
+.flash {
+	font-size:2em;
+	text-align: center;}
+
 
 
 .mySlides {display:none;}
