@@ -175,7 +175,10 @@ a {color: rgb(204, 102, 0);
 section.section1 {
 padding-left:10px;
   }
+	
+p#hi { visibility: hidden; }
 
+#img2 {margin-top:-17em;}
 }
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
@@ -204,6 +207,13 @@ padding-right: 5px;}
 
 section.button {
 	margin-left:0;
+}
+	
+p#hi { visibility: hidden; }
+
+#img2 {margin-top:-20.3em;}
+
+
 }
 }
 
