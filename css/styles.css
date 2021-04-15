@@ -7,13 +7,13 @@ div.info{padding-left: 10px;
 
 }
 
-p.flash {animation: blinker 1s linear infinite;}
+p.flash {text-align: center;
+	font-weight: bold;
+	font-size:2em;
+	font-color: #e8c281;
+	animation: blinker 1s linear infinite;}
 
-@keyframes blinker {
-  50% {
-    opacity: 0;
-  }
-}
+
 
 .mySlides {display:none;}
 
