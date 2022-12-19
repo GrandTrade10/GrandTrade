@@ -166,6 +166,12 @@ img#img1{
   padding-bottom:20px;
 }
 
+img#img1B{
+  padding-top:5em;
+  padding-right:20px;
+  padding-left:20px;
+  padding-bottom:5em;
+}
 
 
 /* Clearfix 9clear f;oats) */
@@ -196,6 +202,10 @@ padding-left:10px;
   }
 
   p#hi { visibility: hidden; }
+
+  img#img1B{
+  Display: none;
+}
 
 #img2 {margin-top:-17em;}
 
@@ -401,6 +411,9 @@ padding-right:0;
 
 }
 
+
+}
+
 /********** Mobile devices only **********/
 @media (max-width: 767px) {
   .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
@@ -447,7 +460,8 @@ padding-right:0;
 
   #imga {
 padding-left: 10px;
-padding-right:0px;}
+padding-right:10px;}
+
 
   .container {
 	margin-left:auto;
